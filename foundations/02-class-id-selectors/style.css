@@ -2,3 +2,8 @@ p {
     background-color: #ec5252;
     font-family: verdana, "dejavu sans", sans-serif;
 }
+
+.heading1 {
+    font-size: 38px;
+    color: blue;
+}
